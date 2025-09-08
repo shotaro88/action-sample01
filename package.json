@@ -1,0 +1,10 @@
+{
+  "name": "security-demo",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node app/server.js",
+    "test": "echo \"(dummy)\""
+  },
+  "dependencies": {}
+}
