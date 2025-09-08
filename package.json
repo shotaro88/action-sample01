@@ -1,10 +1,7 @@
 {
-  "name": "security-demo",
-  "private": true,
-  "type": "module",
+  "name": "demo",
+  "version": "1.0.0",
   "scripts": {
-    "start": "node app/server.js",
-    "test": "echo \"(dummy)\""
-  },
-  "dependencies": {}
+    "test": "echo 'Hello CI' && exit 0"
+  }
 }
